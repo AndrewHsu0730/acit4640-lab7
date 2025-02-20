@@ -18,7 +18,8 @@ terraform init
 terraform apply
 ```
 
-### Step 4: Edit the hosts.yml file by adding domain name, SSH username, and SSH private key file path
+### Step 4: Edit the hosts.yml file
+Add domain name, SSH username, and SSH private key file path for both servers
 
 ### Step 5: Complete the playbook
 The following are the tasks completed in the playbook:
